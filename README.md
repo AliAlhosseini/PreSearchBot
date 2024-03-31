@@ -13,8 +13,15 @@ attention : you have login to your account first !
 # help
 
 **if :**
+
+it depends on your internet connection and your pc 👍
+
+****Note**** : if you have good internet connection (7mbps +) you could decrease the sleep time for 7+ tokens **:)**
+
+but for most of the pcs this is the right choice :
+
 **
-token count = 1-5  --->  sleep time = 5-7
+token count = 1-5  --->  sleep time = 4-7
 
 token count = 5-10  --->  sleep time = 9-12
 
